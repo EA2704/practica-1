@@ -1,2 +1,1 @@
-# practica-1
-HTML y CSS
+Elias Alejandro  Ortega Torres      22690464
